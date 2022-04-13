@@ -13,4 +13,4 @@ Para que las demas clases hijas hereden los atributos del padre, se debe extende
 ```
 
 En ese trozo de código estamos extendiendo la clase Alumno en la clase AlumnoInternacional, es decir, en AlumnoInternacional vamos a heredar todos los atributos de su clase padre
-Alumno.
+Alumno. Con esto, estamos reutilizando código y ahorrando recursos.
